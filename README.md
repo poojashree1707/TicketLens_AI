@@ -66,8 +66,8 @@
 
 #### TravelDoc AI provides an OCR-based solution for extracting useful information from transportation tickets. By combining image preprocessing, Tesseract OCR, regular expression-based extraction, and Streamlit, the system converts ticket images and PDFs into structured travel information.
 
-### You can now view my Streamlit app in your browser.
+### You can now view your Streamlit app in your browser.
 
-  Local URL: http://localhost:8502
+  Local URL: http://localhost:8501
   
-  Network URL: http://10.232.190.91:8502
+  Network URL: http://10.233.0.91:8501
