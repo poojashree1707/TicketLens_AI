@@ -68,6 +68,5 @@
 
 ### You can now view my Streamlit app in your browser.
 
-  Local URL: http://localhost:8501
+https://ticketlensai-84phcxjz447x9gv8emmkpc.streamlit.app/
   
-  Network URL: http://10.233.0.91:8501
